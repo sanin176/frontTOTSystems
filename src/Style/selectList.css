@@ -1,0 +1,17 @@
+.widthListNumber1 {
+    min-width: 100px;
+    max-width: 200px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.widthListNumber2 {
+    min-width: 100px;
+    max-width: 200px;
+    margin-left: 30px;
+}
+
+.styleScroll {
+    width: 600px;
+    margin-left: 30px;
+}
